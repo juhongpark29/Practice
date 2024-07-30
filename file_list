@@ -1,0 +1,15 @@
++libext+.v+.vh
+comparator.v
+conv2_buf_5ks.v
+conv2_calc_5ks_1.v
+conv2_calc_5ks_2.v
+conv2_calc_5ks_3.v
+conv_5ks_1.v
+conv_5ks_2.v
+conv_buf_5ks.v
+conv_calc_5ks.v
+fc_layer.v
+#mnist_cnn.v
+mxp_relu.v
+tb_conv_5ks.v
+#tb_mnist_cnn.v
